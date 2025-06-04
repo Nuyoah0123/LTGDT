@@ -4,7 +4,7 @@
 
 ## Getting Started
 ```Shell
-conda create -n cosmix python=3.8 -y
+conda create -n ltgdt python=3.8 -y
 conda activate ltgdt
 
 pip install ninja
@@ -50,4 +50,4 @@ Thanks for the following works for their awesome codebase.
 [LaserMix](https://github.com/ldkong1205/LaserMix)
 
 
-Code coming soon, stay tuned! 🔥
+# Code coming soon, stay tuned! 🔥
