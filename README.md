@@ -1,5 +1,5 @@
 
-# Learning-then-Generalization: Progressive Dual Teacher Framework for Domain Adaptive LiDAR Semantic Segmentation
+# Combating Domain Bias: A Learning-then-Generalization Dual Teacher Framework for Unsupervised Domain Adaptation in LiDAR Semantic Segmentation
 
 
 ## Getting Started
